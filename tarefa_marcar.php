@@ -23,7 +23,7 @@
 
                 <div class="form-group">
                     <label>Data</label>
-                    <input type="date" class="form-control" required="" name="txtData">
+                    <input type="date" class="form-control" required="" name="txtData" max="2025-12-31">
                 </div>
 
                 <div class="form-group">
